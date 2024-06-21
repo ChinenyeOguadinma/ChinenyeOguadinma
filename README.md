@@ -4,13 +4,13 @@ Hi 👋 My name is Chinenye Oguadinma
 Data Scientist and Data Designer
 --------------------------------
 
-Hello, my name is Chinenye Oguadinma, a passionate data scientist and data designer from Nigeria. I am committed to harnessing the power of data and artificial intelligence to advocate for Sustainable Development Goals and address complex business issues. My diverse engineering and business administration/analytics background gives me a unique perspective. With international experience gained from working at prestigious organizations such as the United Nations and Enactus, I bring a wealth of knowledge and skills.
+Hello, I am Chinenye Oguadinma, a passionate data scientist and designer from Nigeria. I am committed to harnessing the power of data and artificial intelligence to advocate for Sustainable Development Goals and address complex business issues. My diverse engineering and business administration/analytics background gives me a unique perspective. With international experience gained from working at prestigious organizations such as the United Nations and Enactus, I bring knowledge and skills.
 
 * 🌍  I'm based in Nigeria.
 * 🖥️  See my portfolio at [My Data Portfolio](http://chineyoguadinma.wixsite.com/mysite/data-projects)
 * ✉️  You can contact me at [chineyoguadinma@gmail.com](mailto:chineyoguadinma@gmail.com)
-* 🧠  I'm learning D3.js for interactive data visualization for the web.
-* 🤝  I'm open to collaborating on Interesting projects
+* 🧠  I'm currently learning D3.js for interactive data visualization for the web.
+* 🤝  I'm open to collaborating on Interesting projects.
 
 ### Skills
 
